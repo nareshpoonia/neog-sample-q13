@@ -1,0 +1,21 @@
+:root {
+  --primary-color: #f87171;
+  --secondary-color: #fbbf24;
+}
+
+h1 {
+  color: var(--primary-color);
+  font-family: "Stick No Bills", sans-serif;
+}
+
+h2 {
+  color: var(--secondary-color);
+}
+
+.first-button {
+  background-color: var(--primary-color);
+}
+
+.second-button {
+  background-color: var(--secondary-color);
+}
